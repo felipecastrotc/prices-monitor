@@ -21,7 +21,6 @@ scan = Scan()
 
 # Scan product
 out = scan.scan(product)
-out
 
 # Example on generic search on a website
 # Initiate a browser
